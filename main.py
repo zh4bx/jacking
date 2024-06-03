@@ -52,7 +52,7 @@ def blink_text(large_text, logo_text, options, interval=0.5):
         
         while True:
             # Get user input for option selection
-            selection = input(f"{Fore.RED}{Style.BRIGHT}Enter your selection (1, 2, 3, 4): {Style.RESET_ALL}")
+            selection = input(f"{Fore.RED}{Style.BRIGHT}Enter(1, 2, 3, 4): {Style.RESET_ALL}")
             
             # Perform actions based on user selection
             if selection == '1':
@@ -64,7 +64,7 @@ def blink_text(large_text, logo_text, options, interval=0.5):
                 subprocess.run(["python", "with.py"])
                 
             elif selection == '3':
-                print("Redirecting to email validator website...")
+                print("https://email-checker.net/")
                 # Open the website for email validation
                 webbrowser.open("https://email-checker.net/")
             
