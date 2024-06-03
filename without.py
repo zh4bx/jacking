@@ -1,4 +1,28 @@
-import datetime;now = datetime.date.today();target = datetime.date(2024,5,30)                                         if now >=target:exit                                       import requests                                            import webbrowser                                          webbrowser.open("https://t.me/zhtricks")                   import requests                                            import random                                              import re                                                  import string                                              import pyfiglet                                            import time                                                                                                           A = '\033[1;34m'  # ازرق                                   B = '\033[1;31m'  # احمر                                   C = '\033[1;32m'  # اخضر                                   D = '\033[1;33m'  # اصفر                                                                                              logo = pyfiglet.figlet_format('  ZH4BX ')                  print(A + logo)                                            print('\033[1;35m                 @zh4bx  \n\n\n\n  ')     import os                                                  try:                                                         import requests                                            from requests import get                                 except:                                                      os.system("pip install requests")                          import requests
+import datetime;now = datetime.date.today();target = datetime.date(2024,5,30)
+if now >=target:exit
+import requests
+import webbrowser                                                                       webbrowser.open("https://t.me/zhtricks")
+import requests
+import random                                                                           import re
+import string
+import pyfiglet
+import time
+
+A = '\033[1;34m'  # ازرق
+B = '\033[1;31m'  # احمر
+C = '\033[1;32m'  # اخضر
+D = '\033[1;33m'  # اصفر
+
+logo = pyfiglet.figlet_format('  ZH4BX ')
+print(A + logo)
+print('\033[1;35m                 @zh4bx  \n\n\n\n  ')
+import os
+try:
+  import requests
+  from requests import get
+except:
+  os.system("pip install requests")
+  import requests
   from requests import get
 try:
   from user_agent import generate_user_agent
