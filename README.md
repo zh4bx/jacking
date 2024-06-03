@@ -7,7 +7,6 @@
 <a href="https://github.com/STARK-404/"><img title="Github" src="https://img.shields.io/badge/cyberaj17-blue?style=for-the-badge&logo=github"></a>
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-green?style=for-the-badge&logo=instagram)](https://instagram.com/zh4bx?igshid=YmMyMTA2M2Y=)
 
-# Tutorial
 
 # Installation 
 ## Kali
