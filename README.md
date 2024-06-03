@@ -17,7 +17,7 @@ pkg install python
 pkg install git 
 pip install requests 
 pip install rich 
-https://github.com/cyberaj17/jacking/
+git clone https://github.com/cyberaj17/jacking/
 cd INSTA 
 chmod +x *
 python main.py
@@ -30,10 +30,12 @@ pkg install python
 pkg install git 
 pip install requests 
 pip install rich 
-https://github.com/cyberaj17/jacking/
+git clone https://github.com/cyberaj17/jacking/
 cd INSTA 
 chmod +x *
 python main.py
 ```
+# IMAGE
+![Sample Image](https://telegra.ph/file/8080e76b8a3498c07c8ff.jpg)
 # Note
 **This tool is only For Educational Purposes and Use It on Your Own Risk**
