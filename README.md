@@ -17,8 +17,8 @@ pkg install python
 pkg install git 
 pip install requests 
 pip install rich 
-git clone https://github.com/cyberaj17/jacking/
-cd INSTA 
+git clone https://github.com/cyberaj17/jacking
+cd jacking
 chmod +x *
 python main.py
 ```
@@ -31,7 +31,7 @@ pkg install git
 pip install requests 
 pip install rich 
 git clone https://github.com/cyberaj17/jacking/
-cd INSTA 
+cd jacking
 chmod +x *
 python main.py
 ```
