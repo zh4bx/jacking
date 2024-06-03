@@ -1,9 +1,9 @@
 import datetime;now = datetime.date.today();target = datetime.date(2024,5,30)
 if now >=target:exit
 import requests
-import webbrowser                                                                       webbrowser.open("https://t.me/zhtricks")
+import webbrowser                                                                
 import requests
-import random                                                                           import re
+import random                                                                           
 import string
 import pyfiglet
 import time
