@@ -1,2 +1,40 @@
-# jacking
-Instagram 2k12&amp;2k13 jacking tool
+# INSTA
+**Its Instagram 2k12&2k13 jacking Tool**
+## About 
+*THIS TOOL MADE FOR EASY TO JACK INSTAGRAM OLD ACCOUNTS*
+# Author 
+
+<a href="https://github.com/STARK-404/"><img title="Github" src="https://img.shields.io/badge/cyberaj17-blue?style=for-the-badge&logo=github"></a>
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-green?style=for-the-badge&logo=instagram)](https://instagram.com/zh4bx?igshid=YmMyMTA2M2Y=)
+
+# Tutorial
+
+# Installation 
+## Kali
+```
+pkg update 
+pkg upgrade 
+pkg install python
+pkg install git 
+pip install requests 
+pip install rich 
+https://github.com/cyberaj17/jacking/
+cd INSTA 
+chmod +x *
+python main.py
+```
+## Termux 
+```
+pkg update 
+pkg upgrade 
+pkg install python
+pkg install git 
+pip install requests 
+pip install rich 
+https://github.com/cyberaj17/jacking/
+cd INSTA 
+chmod +x *
+python main.py
+```
+# Note
+**This tool is only For Educational Purposes and Use It on Your Own Risk**
