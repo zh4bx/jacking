@@ -36,6 +36,6 @@ chmod +x *
 python main.py
 ```
 # IMAGE
-![Sample Image](https://telegra.ph/file/8080e76b8a3498c07c8ff.jpg)
+![Sample Image](https://telegra.ph/file/e91eb1a82ae7e5e9da406.jpg)
 # Note
 **This tool is only For Educational Purposes and Use It on Your Own Risk**
