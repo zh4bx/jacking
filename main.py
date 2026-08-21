@@ -2,7 +2,6 @@ import time
 import itertools
 import os
 from colorama import Fore, Style, init
-import pyfiglet
 import webbrowser
 import subprocess
 
